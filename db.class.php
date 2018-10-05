@@ -1,7 +1,7 @@
 <?php
 
 // Title     	: Database CRUD functions.
-// File		: db.class.php
+// File         : db.class.php
 // Author    	: M. Langham
 // Date      	: 2018/01/20
 // Version   	: 1.0.0
